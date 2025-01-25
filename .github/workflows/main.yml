@@ -1,4 +1,4 @@
-Echo Hello on Push to Main
+name: Echo Hello on Push to Main
 
 on:
   push:
